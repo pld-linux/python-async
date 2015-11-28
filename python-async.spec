@@ -3,7 +3,7 @@ Summary:	Async Framework
 # Name must match the python module/package name (as in 'import' statement)
 Name:		python-%{module}
 Version:	0.6.1
-Release:	2
+Release:	3
 License:	BSD
 Group:		Development/Languages/Python
 Source0:	http://pypi.python.org/packages/source/a/async/%{module}-%{version}.tar.gz
